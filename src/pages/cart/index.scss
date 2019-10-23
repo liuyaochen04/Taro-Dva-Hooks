@@ -1,0 +1,11 @@
+@import "../../styles/mixin";
+
+.cart-page {
+  @include wh(100%, 100%);
+}
+
+.playCenter{
+  margin: 0 auto;
+  text-align: center;
+  padding-left: 40% !important;
+}
